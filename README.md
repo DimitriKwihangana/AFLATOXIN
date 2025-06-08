@@ -132,7 +132,8 @@ The backend uses:
 - **Automated Backups** for disaster recovery
 
 ---
-
+Githublink: https://github.com/DimitriKwihangana/AFLATOXIN
+YoutubeLink: https://youtu.be/nrlgJSx_fck
 ## 📦 Dependencies
 
 Install all Python dependencies:
